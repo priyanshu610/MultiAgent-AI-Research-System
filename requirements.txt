@@ -8,7 +8,7 @@ langchain-mistralai>=0.1.0
 # OpenAI,mistral and streamlit
 openai>=1.30.0
 streamlit==1.35.0
-mistralai==0.4.0
+mistralai>=1.0.0
 
 # Tavily Search Tool
 tavily-python>=0.3.0
